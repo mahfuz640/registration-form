@@ -2,3 +2,9 @@ body {
     background-image: linear-gradient(to right, #ff5722, #ff9800);
     margin-top: 150px !important;
 }
+
+.register-left {
+    text-align: center;
+    color: #fff;
+    padding: 30px;
+}
